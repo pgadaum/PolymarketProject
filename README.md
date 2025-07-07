@@ -2,7 +2,7 @@
 
 # Polymarket and Stock Correlation
 
-**One Sentence Summary**: This repository explores whether data from Polymarket prediction markets can help forecast short-term movements in traditional financial markets like NASDAQ, using time-series regression and classification models.
+This repository explores whether data from Polymarket prediction markets can help forecast short-term movements in traditional financial markets like NASDAQ, using time-series regression and classification models.
 
 ---
 
