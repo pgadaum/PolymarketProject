@@ -1,3 +1,4 @@
+<img width="200" alt="image" src="https://github.com/rttle/Bank-Churn-Kaggle-Challenge/assets/143844181/dbbeb760-7ac3-4d53-84ce-a08071725da1">
 
 # Polymarket and Stock Correlation
 
