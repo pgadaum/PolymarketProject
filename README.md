@@ -55,6 +55,7 @@ Initial experiments include linear models and decision trees. Results show modes
 - Scatter plots of sentiment vs. price change
 
 <img width="903" alt="Screenshot 2025-07-07 at 5 40 05 PM" src="https://github.com/user-attachments/assets/37cbc38d-4dd3-48a0-b9db-f2f823afbf28" />
+<img width="907" alt="Screenshot 2025-07-07 at 5 45 15 PM" src="https://github.com/user-attachments/assets/34af4c24-10d0-4c3e-8ce3-d45d23d7ba3c" />
 
 ---
 
