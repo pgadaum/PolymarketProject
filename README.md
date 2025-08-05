@@ -8,7 +8,6 @@ This repository explores whether data from Polymarket prediction markets can hel
 
 ## Overview
 
-**Definition of the Task / Challenge**  
 The goal is to determine if there's a statistically meaningful relationship between sentiment expressed in Polymarket prediction markets and future movements in stock indices (e.g., NASDAQ). Specifically, we aim to use past market prediction data to forecast next-day or 3-day price direction or percentage change.
 
 **Approach**  
